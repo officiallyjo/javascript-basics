@@ -1,3 +1,4 @@
+// initialization
 // while(condition){
 //     loop Body;
 //     i++;
